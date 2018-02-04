@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorSubmit">#38618c</color>
+    <color name="putih">#ffffff</color>
+    <color name="biru">#189aa8</color>
+    <color name="birutua">#012345</color>
+    <color name="merahtua">#8b2525</color>
+    <color name="birumuda">#d8f0e8</color>
+
+
+
+</resources>

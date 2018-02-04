@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kuis Anak</string>
+    <string name="presiden">Presiden Amerika Serikat</string>
+    <string name="trump">Donald John Trump</string>
+    <string name="penjelasan">Lahir di New York City, New York, 14 Juni 1946 (71 tahun) adalah pebisnis, tokoh televisi realita, politikus, dan Presiden Amerika Serikat ke-45. Sejak 1971, ia memimpin The Trump Organization, perusahaan induk utama untuk semua usaha properti dan kepentingan bisnis lain miliknya. Sepanjang karier bisnisnya, Trump telah membangun gedung perkantoran, hotel, kasino, lapangan golf, dan fasilitas bermerek lainnya di seluruh dunia. Ia terpilih sebagai presiden Amerika Serikat ke-45 pada pilpres 2016 dari Partai Republik; ia mengalahkan calon dari Partai Demokrat, Hillary Clinton. Ia dilantik pada tanggal 20 Januari 2017.</string>
+    <string name="skor">SCORE : 100 </string>
+    <string name="home">HOME</string>
+</resources>

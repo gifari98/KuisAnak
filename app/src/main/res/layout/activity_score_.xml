@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.gifar.kuisanak.Score_Activity"
+    android:background="@color/birumuda">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="60dp"
+                android:layout_marginBottom="35dp"
+                android:src="@drawable/medals" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/skor"
+                android:textColor="@color/birutua"
+                android:textSize="30sp"
+                android:id="@+id/skorakhir"/>
+
+            <Button
+                android:layout_marginTop="35dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#456789"
+                android:text="@string/home"
+                android:textColor="@color/putih"
+                android:id="@+id/home"/>
+        </LinearLayout>
+
+
+</LinearLayout>
